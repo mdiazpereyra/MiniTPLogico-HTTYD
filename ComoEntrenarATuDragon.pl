@@ -51,9 +51,10 @@
 %                      --------------------------------
 %                       "MOORTAAAAALL KOOOMBAAAAAAATT"
 %                      --------------------------------
-
+%
 
 %-----BASE DE CONOCIMIENTO-----
+
 entrenador(hipo).
 entrenador(gobber).
 entrenador(astrid).
