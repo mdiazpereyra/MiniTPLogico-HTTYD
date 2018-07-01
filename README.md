@@ -1,1 +1,2 @@
-# MiniTPLogico-HTTYD
+# MiniTPLogico
+# Como Entrenar A Tu Dragon
